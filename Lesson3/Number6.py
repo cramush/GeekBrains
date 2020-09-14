@@ -1,4 +1,4 @@
-def func(*w):
+def func():
     word = input("Введи слова: ")
     print(word.title())
     return
